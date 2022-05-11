@@ -1,6 +1,6 @@
 **Process Areas**
 
-_Agile Method
+Agile Method
 
 Change Management
 
@@ -16,4 +16,4 @@ Naming & Versioning
 
 Planning Cards
 
-Retrospectives_
+Retrospectives

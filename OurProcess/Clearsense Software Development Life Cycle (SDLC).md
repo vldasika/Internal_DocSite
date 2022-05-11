@@ -9,8 +9,8 @@ This is a starting point for finding and consolidating information around the Cl
 
 **Processes/Operations**
 
-*Agile Method
-  *Definition of Done
+*Agile Method*
+  *Definition of Done*
 *Branching & Merging 
 *Code Reviews 
 *Code Quality & Scanning 
